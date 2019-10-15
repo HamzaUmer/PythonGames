@@ -1,7 +1,3 @@
-#########################################################
-## File Name: hangman.py                               ##
-## Description: Starter for Hangman project - ICS3U    ##
-#########################################################
 import pygame
 import random
 
